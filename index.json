@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "jupyter-book",
+  "versions": [
+    {
+      "commit": "11acb1bbdd51c23ae14663daf0b7d4a0fd1c9d0e",
+      "tag": "v2.1.7",
+      "parsed_at": "2026-10-19T10:55:31.262240+00:00"
+    }
+  ]
+}
